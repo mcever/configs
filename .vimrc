@@ -16,3 +16,5 @@ set foldmethod=indent
 set foldlevel=99
 " enable folding with spacebar
 nnoremap <space> za
+
+set background=dark
